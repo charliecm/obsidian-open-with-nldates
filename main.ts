@@ -9,7 +9,7 @@ export default class MyPlugin extends Plugin {
 	async onload() {
 		this.addCommand({
 			id: "open-daily-note",
-			name: "Open daily note with natural language date",
+			name: "Open daily note",
 			icon: "calendar-search",
 			callback: () => {
 				const modal = new OpenDailyNoteModal(this.app);
