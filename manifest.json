@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-open-with-nldates",
+	"id": "open-with-nldates",
 	"name": "Open with Natural Language Dates",
 	"version": "1.0.0",
 	"minAppVersion": "1.6.7",
-	"description": "Quickly open a daily note using natural language dates. Requires \"Natural Language Dates\" plugin to work.",
+	"description": "Open a daily note using natural language. Requires \"Natural Language Dates\" plugin to work.",
 	"author": "Charlie Chao",
 	"authorUrl": "https://github.com/charliecm",
 	"fundingUrl": "https://www.buymeacoffee.com/charliecm"

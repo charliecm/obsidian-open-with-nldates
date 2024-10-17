@@ -1,6 +1,8 @@
 # Obsidian Open with Natural Language Dates
 
-An [Obsidian](https://obsidian.md) plugin that adds a command that lets you quickly open a daily note using natural language dates. It requires the [Natural Language Date](https://github.com/argenos/nldates-obsidian/tree/master) plugin to be enabled.
+An [Obsidian](https://obsidian.md) plugin that adds a command that lets you quickly open a daily note using natural language. It requires the [Natural Language Dates](https://github.com/argenos/nldates-obsidian/tree/master) plugin to be enabled.
+
+![Demo video](https://raw.githubusercontent.com/charliecm/obsidian-open-with-nldates/main/demo.gif)
 
 I wrote this plugin because I needed a faster way to open a daily note without needing to use a calendar or remember the exact file name. This is useful if you're trying to recall something or want to add to a future daily note.
 
