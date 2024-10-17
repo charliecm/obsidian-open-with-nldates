@@ -5,7 +5,7 @@ import {
 	getDailyNote,
 } from "obsidian-daily-notes-interface";
 
-export default class MyPlugin extends Plugin {
+export default class OpenWithNaturalLanguageDates extends Plugin {
 	async onload() {
 		this.addCommand({
 			id: "open-daily-note",
